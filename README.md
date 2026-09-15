@@ -1,4 +1,4 @@
-# Synthetic Dermatology miRNA Analysis
+# Dermatology miRNA Analysis
 
 A reproducible clinical biomarker case study built with fully synthetic dermatology and qPCR data.
 
