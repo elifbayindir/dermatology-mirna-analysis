@@ -1,0 +1,25 @@
+part,type,file,title
+1,figure,part-1/figures/figure-01-analysis-workflow.svg,Figure 1. Analysis workflow
+1,figure,part-1/figures/figure-02-synthetic-cohort-characteristics.png,Figure 2. Synthetic cohort characteristics
+1,figure,part-1/figures/figure-03-synthetic-clinical-profile.png,Figure 3. Synthetic clinical profile
+1,table,part-1/tables/table-01-synthetic-cohort-characteristics.png,Table 1. Synthetic cohort characteristics
+1,table,part-1/tables/table-02-synthetic-clinical-profile.png,Table 2. Synthetic clinical profile
+2,figure,part-2/figures/figure-04-primary-delta-cq-comparison.png,Figure 4. Primary ΔCq comparison
+2,figure,part-2/figures/figure-05-normalization-sensitivity.png,Figure 5. Normalization sensitivity
+2,table,part-2/tables/table-03-reference-measurement-checks.png,Table 3. Reference measurement checks
+2,table,part-2/tables/table-04-primary-delta-cq-results.png,Table 4. Primary ΔCq results
+2,table,part-2/tables/table-05-normalization-sensitivity.png,Table 5. Normalization sensitivity
+3,figure,part-3/figures/figure-06-clinical-correlations.png,Figure 6. Clinical correlations
+3,figure,part-3/figures/figure-07-subgroup-estimates.png,Figure 7. Exploratory subgroup estimates
+3,table,part-3/tables/table-06-clinical-correlations.png,Table 6. Clinical correlations
+3,table,part-3/tables/table-07-subgroup-estimates.png,Table 7. Exploratory subgroup estimates
+4,figure,part-4/figures/figure-08-adjusted-odds-ratios.png,Figure 8. Adjusted odds ratios
+4,figure,part-4/figures/figure-09-cross-validated-roc.png,Figure 9. Cross-validated ROC curves
+4,table,part-4/tables/table-08-adjusted-association-models.png,Table 8. Adjusted association models
+4,table,part-4/tables/table-09-model-diagnostics.png,Table 9. Model diagnostics
+4,table,part-4/tables/table-10-cross-validated-roc.png,Table 10. Cross-validated ROC results
+4,table,part-4/tables/table-11-paired-auc-comparison.png,Table 11. Paired AUC comparison
+5,figure,part-5/figures/figure-10-coexpression.png,Figure 10. Within-group miRNA co-expression
+5,table,part-5/tables/table-12-sensitivity-analysis.png,Table 12. Sensitivity analysis
+5,table,part-5/tables/table-13-coexpression-comparison.png,Table 13. Co-expression comparison
+5,table,part-5/tables/table-14-prospective-power-plan.png,Table 14. Prospective power plan

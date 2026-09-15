@@ -1,0 +1,2 @@
+comparison,AUC_difference,ci_low,ci_high,paired_bootstrap_p
+Two-miRNA score minus miR-143-3p,-0.0030158730158730274,-0.014381534559780995,0.005445743332930368,0.612

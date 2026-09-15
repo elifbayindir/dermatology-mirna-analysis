@@ -1,0 +1,29 @@
+# Real study data must never enter this repository
+raw/
+processed/
+private/
+data/*
+!data/README.md
+!data/synthetic_mirna_cohort.csv
+
+# Common clinical data formats
+*.xlsx
+*.xls
+*.numbers
+*.parquet
+*.pkl
+*.pickle
+*.sav
+*.dta
+*.rds
+*.docx
+*.pdf
+
+# Local and notebook metadata
+.ipynb_checkpoints/
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.pyc
+

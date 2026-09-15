@@ -1,0 +1,3 @@
+reference,acne,control,rank_biserial_r,p_value
+Main synthetic reference,"26.53 [26.10, 26.97]","26.50 [25.95, 26.83]",0.0706349206349206,0.2786364965845718
+Deliberately unstable reference,"28.11 [27.62, 28.49]","26.45 [25.99, 26.92]",0.9057142857142857,6.431824898223751e-44
